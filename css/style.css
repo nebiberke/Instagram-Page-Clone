@@ -1,0 +1,92 @@
+::placeholder {
+    font-size: 13px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+    opacity: 0.6 !important;
+}
+
+input.empty {
+    font-family: FontAwesome;
+    font-weight: lighter !important;
+    text-decoration: inherit;
+    background-color: #FAFAFA;
+}
+
+.profile-photo {
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+.search-input {
+    background-color: #EFEFEF !important;
+    border: none !important;
+    font-weight: 100 !important;
+}
+
+.story-photo {
+    width: 63px;
+    height: 63px;
+    position: relative;
+}
+
+.story-text {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    cursor: pointer;
+}
+
+.story-text:hover {
+    color: black;
+}
+
+.post-photo {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+
+.post-comment {
+    width: 100%;
+    border: none;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.post-comment:focus {
+    outline: none;
+}
+
+.aside-photo {
+    width: 55px;
+    height: 55px;
+    position: relative;
+}
+
+.suggestion-photo {
+    width: 35px;
+    height: 35px;
+    position: relative;
+}
+
+.ft-content {
+    font-size: 12px;
+    color: rgb(199, 199, 199);
+}
+
+.dot {
+    height: 3px;
+    width: 3px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.d-toggle {
+    border: none;
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+}
